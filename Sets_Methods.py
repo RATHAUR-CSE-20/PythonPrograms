@@ -1,0 +1,12 @@
+A=set()
+print(type(A))
+A.add(5)
+A.add(8)
+A.add(9)
+A.add((6,5,9))
+# NOTE: We cannot add list and dictionary inside sets.We Can Only Add Tupples Inside Set.
+print(A)
+print(len(A))
+A.remove(8)
+print(A)
+print(A.pop())

@@ -1,0 +1,11 @@
+A=int(input("Enter Num1 :  "))
+B=int(input("Enter Num2 :  "))
+C=int(input("Enter Num3 :  "))
+D=int(input("Enter Num4 :  "))
+E=int(input("Enter Num5 :  "))
+F=int(input("Enter Num6 :  "))
+G=int(input("Enter Num7 :  "))
+H=int(input("Enter Num8 :  "))
+X={A,B,C,D,E,F,G,H}
+print(X)
+input("Press Enter")

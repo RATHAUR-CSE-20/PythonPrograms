@@ -1,0 +1,6 @@
+a=input("Enter Your Name -:")
+print("Your Name Is ",a)
+print(type(a))
+print("Thanks For Using My Program")
+print("Thanks For Using My Program")
+N=input(print("Press Enter To Exit"))
